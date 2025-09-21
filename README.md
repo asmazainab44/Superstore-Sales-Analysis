@@ -1,4 +1,4 @@
-# Superstore ales Analysis (SQL Project)
+# Superstore Sales Analysis (SQL Project)
 
 ## Project Overview
 
