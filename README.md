@@ -8,7 +8,7 @@ This project performs a comprehensive **sales data analysis** on a `superstore` 
 
 ## Dataset
 
-* **Dataset :** `https://github.com/asmazainab44/Superstore-Sales-Analysis/blob/main/Superstore_Orders_Data.xlsx`
+* **Dataset :** `Superstore_Orders_Data`
 * **Database:** `sales_analysis`
 * **Source:** Internal store sales data (Excel imported into MySQL)
 * **Key Columns:**
@@ -77,7 +77,7 @@ This project performs a comprehensive **sales data analysis** on a `superstore` 
 
 ## How to Use
 
-1. Import the `Superstore_Orders_Data.xlsx` dataset into MySQL Workbench.
+1. Import the `Superstore_Orders_Data` dataset into MySQL Workbench.
 2. Execute the SQL scripts in the following order:
 
    * Database creation and table setup.
