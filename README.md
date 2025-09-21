@@ -8,7 +8,7 @@ This project performs a comprehensive **sales data analysis** on a `superstore` 
 
 ## Dataset
 
-* **Dataset :** `Superstore_Orders_Data.xlsx`
+* **Dataset :** `https://github.com/asmazainab44/Superstore-Sales-Analysis/blob/main/Superstore_Orders_Data.xlsx`
 * **Database:** `sales_analysis`
 * **Source:** Internal store sales data (Excel imported into MySQL)
 * **Key Columns:**
